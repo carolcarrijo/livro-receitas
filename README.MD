@@ -1,7 +1,11 @@
-# Livro de receitas :woman_cook:
+# Livro de Receitas -  Carol :woman_cook:
 
-Olá, bem vindo ao meu livro de receitas :vulcan_salute:
+- Strogonoff 
 
-- Strogonoff de Frango
+- Cookies
+
 - Brownie
-- Bolo de Fubá
+
+  
+
+  
